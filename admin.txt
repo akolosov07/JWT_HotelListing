@@ -1,0 +1,10 @@
+{
+  "email": "avt757@hotmail.com",
+  "password": "********",
+  "firstName": "Alexander",
+  "lastName": "Kolosov",
+  "phoneNumber": "123",
+  "roles": [
+    "Administrator"
+  ]
+}
